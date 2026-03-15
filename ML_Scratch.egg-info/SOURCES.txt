@@ -1,0 +1,17 @@
+setup.py
+Loss_Functions/Losses.py
+Loss_Functions/__init__.py
+ML_Scratch.egg-info/PKG-INFO
+ML_Scratch.egg-info/SOURCES.txt
+ML_Scratch.egg-info/dependency_links.txt
+ML_Scratch.egg-info/requires.txt
+ML_Scratch.egg-info/top_level.txt
+Optimizers/__init__.py
+Optimizers/optimizer.py
+Optimizers/optimizer_MLP.py
+models/LinearClassification.py
+models/LinearRegression.py
+models/MultiLayerPerceptron.py
+models/NonLinearClassification.py
+models/NonLinearRegression.py
+models/__init__.py
