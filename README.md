@@ -59,8 +59,8 @@ ML_Scratch/
 │   └── (optimizer implementations)
 │
 │
-├── setup.py
-└── README.md
+└── setup.py
+
 ``` 
 ---
 
