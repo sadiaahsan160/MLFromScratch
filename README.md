@@ -37,7 +37,6 @@ The goal of this project is to **understand the internal mechanics of machine le
 - Custom **optimizers**: Gradient Descent, SGD, Momentum, RMSProp, Adam
 - Custom **loss functions**: MSE, MAE, BCE, Accuracy, Error Rate
 - Visualization utilities for **loss curves** and **decision boundaries**
-- Comparison with scikit-learn models
 
 ---
 
