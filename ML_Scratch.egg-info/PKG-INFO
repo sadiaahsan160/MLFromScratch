@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: ML_Scratch
-Version: 0.1
-Summary: A library for simple machine learning model including: Linear Model (Regression + Classification), Non Linear Model (Regression + Classification), Binary Trees (Regression + Classification), SVM
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
-Requires-Dist: numpy
