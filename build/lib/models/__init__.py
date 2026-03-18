@@ -1,5 +1,0 @@
-from .LinearRegression import linear_regression
-from .LinearClassification import linear_classification
-from .NonLinearRegression import Nonlinear_regression
-from .NonLinearClassification import Nonlinear_classification
-from .MultiLayerPerceptron import MLP
