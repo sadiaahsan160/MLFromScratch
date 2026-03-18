@@ -83,7 +83,7 @@ pip install .
 - Python >= 3.6
 - numpy
 - matplotlib (for plotting)
-- scikit-learn (optional, for comparison/testing)
+
 
 ---
 ## Example Usage
