@@ -43,7 +43,7 @@ The goal of this project is to **understand the internal mechanics of machine le
 
 ## Repository Structure
 ```bash
-ML_Scratch/
+MLFromScratch/
 │
 ├── models/
 │   ├── LinearRegression.py
